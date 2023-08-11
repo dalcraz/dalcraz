@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Daniel, a Backend Developer 👋
+
+- 🔭 I’m currently working on Python projects
+- 🌱 I’m currently learning Swift and Vapor.
+- 👀 I’m interested in mobile development,Python, Docker, backend development with Python and Vapor.
 
 <!--
 **dalcraz/dalcraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
